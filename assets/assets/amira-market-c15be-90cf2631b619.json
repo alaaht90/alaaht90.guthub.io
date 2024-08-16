@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amira-market-c15be",
+  "private_key_id": "90cf2631b619e8f08a411a3dbbc2019a175f54bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCq1b+pbeygj+He\nevpu548kD4biupAazcKlwXB9Ok9op+nrrPcxUIYYK9WL8KyG4/LZ5sTmW8LRMDq/\nWnm8C37HAS1mGXPT8QaAR7uyKP1ck5WPfPtEFvErp8Ag4024i3/gOtPARR1TQYLq\n5pq5lfsg6RPQvc0TQ1s6Zi0/CZAG7mPy37XW3bQRqDdH7rkUiBp4qB6HZeeuZxBZ\nNFHbfnzQvqPadlkgxo/O1Xd0oAXPotzMyFKGe/W6KFQJh1nDzowrbqlhvzYbu4X9\n1KUCZc7n2CHmdu7tp2BUypmLsDcZkCKUacRLKqvV/AlHBSfDU//Z1LGz9UHmgmr7\nV7cNxwDNAgMBAAECggEASDzveVUWsMR2xc2p1TjMgfqg1oH+Sp9EVjQIfaOpDX+n\nfjVbJ7q9oT3z5GNmiPmd6P9YtnIJ3Mwwo1a+UEJqHvuD937+yBnM3nS2zTzg+gMc\nRJscYuvymjuqlh2X8VfnwGkPvmdbYae7lNnjhmOB2CZG70c7DxC15Glta5D/GraF\npvrJJWH3NrZV1PaXbvzgGym5u63Elkht+J3pwst/4xMlxSiKms+HpAtlb1KNwhAI\nnWrEMQMYXNWoG7WwhRyCtdYS4G+tdFHVHAPi+TtJLlLZ9lVbyfbeqQ5t0Z9LH5sf\nO8V8oKwGgG/4lwz0GdYrjiRtFuqyh9cc6c2JMXXibwKBgQDSH+qGUEU0NWrFxXzu\nBRgtugVRpSDvjR+5DJiCfAGPv4mrUWtBFMxAynlEvwvg/WHYkT/WYJrKPSgWOKVB\nCAnl7QDiXULgo6eX4rZGxZM8b90Fz1o8SLQpqrijAzwClDzNWvNXfdPcmmLBk3pl\nvisUaJGN/QnlN1uw2WPopM2frwKBgQDQIePSfJONQNtPkURhr13msZDuUhUnBSeB\nad2TDa+IfIHYB5VNLcgr49RHfMyZbrSqmEtw8KdjoGGVmAlEWeT0jtX44MIij2CY\nMSjq7UKon9KlWzbSKRD4vqHqVrnvCSLYfRlcUz9c0voyfvhGLm5xlb39Wg3+pNrC\nKTWEzdSqQwKBgBlQHPmXO+8BLF6s3tLxrCr+CNwAD4qsLpElUk4N0EZX5abMxSXu\n8ngvrBI7DZxKCfqD7PPPaXZJjcW3hzjhVgfr2Dpsz7yuGmdyuVCnRoh2VWL4yr8O\nZx3J4jpJDnalEvoOJdh5YQdnVdRKBumw0hHAUyCOxh1l4NbaKW4CRH8jAoGAXA9h\ncezgZw5U8zDSClNDOZM5A/ESohvJiZiGBVF8XuaTmDZid6zUaXVwo94zsXoiN4L9\ne4s2vv5lq4GAN9d7SiETy+2+cQLyOt8jtiYT4fovdiyOZw77DstjWv/ZZj2oSBGt\ncgTwdeJsAIHg10oaV+tgCfwXTJcmm9MWdROGCXkCgYAjs8L02CKLX6QPiQVQ2pSx\naeqGMR8YFvScxIxvOywMrOewY80eyF41Rb0JWwbJXkzwkovz3wWvwTFLNlLEDBb5\nlcetXMeC8VypQtj+BjB7pokpxb5DNEjmEUrvHM9BGEwnIRCR9lQNEASvR0jaLji6\nNTOKI1JoBiMxJpeT0ldVsw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "amira-market-c15be@appspot.gserviceaccount.com",
+  "client_id": "105539132093186762024",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amira-market-c15be%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
